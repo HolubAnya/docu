@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519673366 source:/home/anna/Documents/abc/main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+
